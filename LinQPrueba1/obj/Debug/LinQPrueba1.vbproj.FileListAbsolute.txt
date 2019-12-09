@@ -1,0 +1,17 @@
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\bin\Debug\LinQPrueba1.exe.config
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\bin\Debug\LinQPrueba1.exe
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\bin\Debug\LinQPrueba1.pdb
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\bin\Debug\LinQPrueba1.xml
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\bin\Debug\EntityFramework.dll
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\bin\Debug\EntityFramework.xml
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.vbprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.Form1.resources
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.Resources.resources
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.vbproj.GenerateResource.cache
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.vbproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.vbproj.CopyComplete
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.exe
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.xml
+C:\Users\andermaestre\source\repos\LinQPrueba1\LinQPrueba1\obj\Debug\LinQPrueba1.pdb
